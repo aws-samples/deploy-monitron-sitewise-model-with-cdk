@@ -28,7 +28,7 @@ Before you begin, ensure that you have the following prerequisites:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/aws-samples/deploy-monitron-sitewise-model-with-cdk.git
+git clone git@github.com:aws-samples/deploy-monitron-sitewise-model-with-cdk.git
 ```
 
 2. Change into the project directory:
